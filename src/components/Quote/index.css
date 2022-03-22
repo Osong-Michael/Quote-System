@@ -1,0 +1,19 @@
+.quote-ctn {
+    border: 1px solid black;
+    width: 30%;
+    margin:  0 auto 10px;
+    padding: 10px;
+    position: relative;
+}
+
+.quote-ctn button {
+    border: none;
+    padding: 7px 15px;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 20px;
+    background: transparent;
+    position: absolute;
+    top: 0;
+    right: 0;
+}
